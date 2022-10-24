@@ -1,7 +1,5 @@
 def max3lenght(A,B):
     '''
-    def max3lenght(A,B):
-    '''
     (int,int)=>int
     The maximum value of the third side.
     example:

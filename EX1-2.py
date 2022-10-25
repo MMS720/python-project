@@ -6,8 +6,8 @@ def area4triangle (h,a):
     area4triangle (3,2):
     3
     '''
-     if (h>0 and a>0):
+    if (h>0 and a>0):
             Area=h*a/2
-     else: print("triangle is not currect")
-     return(Area)
+    else: print("triangle is not currect")
+    return(Area)
      
